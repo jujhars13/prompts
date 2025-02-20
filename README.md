@@ -1,4 +1,5 @@
 # SOURCE
+
 https://github.com/danielmiessler/fabric
 
 # PATTERNS
@@ -365,4 +366,3 @@ The prompt instructs on drafting a detailed pull request (PR) description based 
 
 ## write_semgrep_rule
 The prompt requests the creation of a Semgrep rule to detect a specific vulnerability pattern in code, based on provided context and examples. It emphasizes the importance of crafting a rule that is general enough to catch any instance of the described vulnerability, rather than being overly specific to the given examples. The expected output is a well-structured Semgrep rule that aligns with the syntax and guidelines detailed in the context, capable of identifying the vulnerability across different scenarios.
-
